@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://stats-phi-two.vercel.app/api/top-langs/?username=heilgar&layout=compact&theme=dracula&exclude_repo=stats)
+![Top Langs](https://stats-phi-two.vercel.app/api/top-langs/?username=heilgar&layout=compact&theme=dracula&exclude_repo=stats,form-builder)
