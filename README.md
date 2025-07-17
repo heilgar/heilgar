@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://stats-phi-two.vercel.app/api/top-langs/?username=heilgar&layout=compact&theme=dracula&exclude_repo=stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=heilgar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
