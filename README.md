@@ -16,6 +16,8 @@ const Oleg = {
 };
 ```
 
+_I use Vim, btw._
+
 ## 📬 Let's Connect
 
 <!-- - 💼 Upwork: [Your Upwork Profile](#) -->
