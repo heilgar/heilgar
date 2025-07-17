@@ -1,5 +1,6 @@
-### Hi there 👋
+> *"Imagine greater"*
 
+> I bring deep technical expertise and product-first thinking to every project — from fast-moving startups to complex enterprise systems. Whether you're shipping your first MVP or optimizing at scale, I can help you build with confidence.
 <!--
 **heilgar/heilgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
 ![Top Langs](https://stats-phi-two.vercel.app/api/top-langs/?username=heilgar&layout=compact&theme=dracula&exclude_repo=stats)
 
